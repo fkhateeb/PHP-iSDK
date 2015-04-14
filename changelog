@@ -7,6 +7,7 @@ Pokmot changes
     Introduced xml-rpc as a composer package, locked to v 3.0.*
     Set verifyhost to 2, as xml-rpc v3 defaults to 1, producing a PHP notice
     Removed closing PHP tags
+    Changed signature of log function for easy override
 
 ----------------------------
 Infusionsoft changelog

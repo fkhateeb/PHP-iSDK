@@ -2290,7 +2290,7 @@ class iSDK
    * @param array $data
    * @return mixed
    */
-  private function log($data)
+  protected function log($data)
   {
     $logdata = $data;
 
