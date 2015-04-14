@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.2.0",
-        "ext-curl": "*"m
+        "ext-curl": "*",
         "phpxmlrpc/phpxmlrpc": "3.0.*"
     },
     "autoload": {
