@@ -1,5 +1,16 @@
 ***Changelog***
 ***************
+
+Pokmot changes
+
+1.9.1 (Date: 05-14-2015)
+    Introduced xml-rpc as a composer package, locked to v 3.0.*
+    Set verifyhost to 2, as xml-rpc v3 defaults to 1, producing a PHP notice
+    Removed closing PHP tags
+
+----------------------------
+Infusionsoft changelog
+
 1.8.6 (Date: 11-20-2013)
     Removed Support for MortgageProCRM
     Updated composer with more information

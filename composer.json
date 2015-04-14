@@ -1,8 +1,8 @@
 {
     "name": "pokmot/php-isdk",
-    "description": "The Official Infusionsoft API PHP SDK",
+    "description": "The Official Infusionsoft API PHP SDK - fork by Pokmot",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
-    "version": "1.9.0",
+    "version": "1.9.1",
     "license": "MIT",
     "homepage": "https://developer.infusionsoft.com",
     "authors": [
