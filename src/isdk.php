@@ -54,6 +54,7 @@ class iSDK
         }
 
         $this->client = new xmlrpc_client("https://$appname.infusionsoft.com/api/xmlrpc");
+        $this->client->verifyhost = 2; // Note that 1 (default value in xmlrpc v3) returns a NOTICE in PHP.
 
         /* Return Raw PHP Types */
         $this->client->return_type = "phpvals";
