@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.2.0",
         "ext-curl": "*",
-        "phpxmlrpc/phpxmlrpc": ">=4"
+        "phpxmlrpc/phpxmlrpc": "4.0.*"
     },
     "autoload": {
         "classmap": ["src/isdk.php"]
