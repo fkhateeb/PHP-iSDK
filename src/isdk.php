@@ -1,5 +1,5 @@
 <?php
-
+use phpxmlrpc\phpxmlrpc;
 
 /**
  * @method Object Orie1nted PHP SDK for Infusionsoft
