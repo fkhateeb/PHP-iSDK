@@ -1,5 +1,5 @@
 {
-    "name": "pokmot/php-isdk",
+    "name": "fkhateeb/php-isdk",
     "description": "The Official Infusionsoft API PHP SDK - fork by Pokmot",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
     "version": "1.9.1",
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.2.0",
         "ext-curl": "*",
-        "phpxmlrpc/phpxmlrpc": "3.0.*"
+        "phpxmlrpc/phpxmlrpc": ">4.*"
     },
     "autoload": {
         "classmap": ["src/isdk.php"]
